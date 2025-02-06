@@ -9,7 +9,6 @@ export const SCHEMES = {
     growth_hypertrophy: {
         repRanges: [8, 15],
         ratio: [2, 3],
-        rest: [90, 60]
     },
     cardiovascular_endurance: {
         repRanges: [12, 30],
