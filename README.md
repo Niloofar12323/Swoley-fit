@@ -2,7 +2,7 @@
 
 **Personalized AI-powered workout plans based on your fitness goals**  
 
-![Workout Generator Screenshot](screenshot.png)  
+![Workout Generator Screenshot](./Screenshot.png)  
 
 ## 📌 Overview  
 
@@ -130,4 +130,3 @@ Contributions are welcome & appreciated!
 3️⃣ Commit your changes (git commit -m 'Add some AmazingFeature')
 4️⃣ Push to the branch (git push origin feature/AmazingFeature)
 5️⃣ Open a Pull Request
-
