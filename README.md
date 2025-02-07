@@ -81,7 +81,14 @@ Navigate to: http://localhost:5173
  ├── index.js              
  └── main.jsx           
 
-🧠 How It Works
+🧠 How It WorksThe workout generation is powered by custom algorithms inside generateWorkout.js. Here's how it works:
+
+1️⃣ Filters exercises based on the selected workout mode (individual/group).
+2️⃣ Shuffles & assigns muscle groups dynamically for variety.
+3️⃣ Determines exercise types – compound vs. accessory.
+4️⃣ Selects optimal reps, rest time & tempo to match the fitness goal.
+5️⃣ Returns a structured workout plan ready to be displayed.
+[
 The workout generation is powered by custom algorithms inside generateWorkout.js. Here's how it works:
 
 1️⃣ Filters exercises based on the selected workout mode (individual/group).
